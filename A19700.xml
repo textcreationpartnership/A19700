@@ -417,8 +417,13 @@ other fygure without circles, representeth th'earth, set forth with Waters, Hyll
                <speaker>Spoud.</speaker>
                <p>Yes verely.</p>
             </sp>
-            <figure/>
-            <figure/>
+            <p>
+               <pb facs="tcp:7033:11"/>
+               <pb facs="tcp:7033:12"/>
+               <figure/>
+               <pb facs="tcp:7033:13"/>
+               <figure/>
+            </p>
             <list>
                <pb facs="tcp:7033:14"/>
                <head>THE DECLARATION OF THE PRINCIPAL places in the Citie, after th'order of th'Alphabete.</head>
@@ -4456,12 +4461,15 @@ dimention, &amp; measuringe: it is requisite to knowe that first, yea &amp; the 
             </sp>
             <sp>
                <speaker>Philo.</speaker>
-               <figure>
-                  <head>A rounde plat forme.</head>
-               </figure>
-               <figure>
-                  <head>A plaine plat forme.</head>
-               </figure>
+               <p>Hereto agreeth youre Pathway. Now proced we further. Because in this Arte, the chiefe measures we vse, is a Pase, a Forlo<g ref="char:cmbAbbrStroke">̄</g>g, a lequè,
+<figure>
+                     <head>A rounde plat forme.</head>
+                  </figure>
+                  <figure>
+                     <head>A plaine plat forme.</head>
+                  </figure>
+                  <pb n="56" facs="tcp:7033:39"/>
+a Mile, a Degree &amp;c. I wil set before your eyes in this Table both the diuersitie of miles, &amp; also their exacte length, placing a Barly corne (being the least measure) as the rule, wherby other measures shalbetried. And like as progression is made from the least vnto the moste, as from a point, to a lyne: from a lyne, to a plat forme: and from a plat forme, to a body: euen so in the quantitie of measures, we do go fro<g ref="char:cmbAbbrStroke">̄</g> a barly corne, to a finger breadth: from a finger breadth, to an vnch: fro<g ref="char:cmbAbbrStroke">̄</g> an vnch, to an ha<g ref="char:cmbAbbrStroke">̄</g>d breadth: from an hand breadth, to a spanne: fro<g ref="char:cmbAbbrStroke">̄</g> a spa<g ref="char:cmbAbbrStroke">̄</g>ne, to a fote: from a fote, to a pase: &amp; so forth to a pearch, a furlong, a lequè, a mile, as in this Table is manifest and playne.</p>
                <p>A Barly corne is the least mea sure, yet from it do all other mea sures procede, as</p>
                <p>
                   <list>
@@ -8212,162 +8220,168 @@ time of the mones Eclipsation, in these versis.</p>
             <sp>
                <speaker>Phil.</speaker>
                <p>Yea &amp; they are also easy to be vndarstand, for she neuer resembleth the figure of the sonne (who<g ref="char:cmbAbbrStroke">̄</g> Poëts call her brother) but only wha<g ref="char:cmbAbbrStroke">̄</g> she is at the ful, at which time beinge in th'opposite place to him, th'earthe (as I saide) shadoweth her from oure sightes. But let that passe, and beholde to serue thy vse in this behalf, I haue calculated such Eclipses of the mone, as shall happe<g ref="char:cmbAbbrStroke">̄</g> fro<g ref="char:cmbAbbrStroke">̄</g> the yeare of oure Lorde. 1560. vntill the yere. 1605: Applying the time of ther beginning, in yeares, daies, houres, &amp; minuts, vnto the meridia<g ref="char:cmbAbbrStroke">̄</g> of Norwich ex<g ref="char:EOLhyphen"/>actly, whiche is. 22. degrees, and. 30. minuts, from the Canarian, or West fortunate Ilandes.</p>
-               <figure>
-                  <head>1560.</head>
-                  <p>¶ March. Daye. 11 Houre. 16 Minute. 6</p>
-               </figure>
-               <figure>
-                  <head>1562.</head>
-                  <p>¶ Iuly. Daye. 15 Houre. 14 Minute. 4</p>
-               </figure>
-               <figure>
-                  <head>1563.</head>
-                  <p>¶ Iuly. Daye. 5 Houre. 7 Minute. 34</p>
-               </figure>
-               <figure>
-                  <head>1565.</head>
-                  <p>¶ Nouember. Daye. 7 Houre. 11 Minute. 36</p>
-               </figure>
-               <figure>
-                  <head>1566</head>
-                  <p>¶ October. Day. 28 Houre. 2 Minute. 44</p>
-               </figure>
-               <figure>
-                  <head>1567</head>
-                  <p>¶ October. Daye. 17 Houre. 13 Minute. 53</p>
-               </figure>
-               <figure>
-                  <head>1569</head>
-                  <p>¶ Marche. Day. 2 Houre. 14 Minute. 57</p>
-               </figure>
-               <figure>
-                  <head>1570</head>
-                  <p>¶ February Day. 20 Houre. 5 Minute. 20</p>
-               </figure>
-               <figure>
-                  <head>1570</head>
-                  <p>¶ August. Daye. 15 Houre. 9 Minute. 5</p>
-               </figure>
-               <figure>
-                  <head>1572</head>
-                  <p>¶ Iune. Day. 25 Houre. 9 Minute. 10</p>
-               </figure>
-               <figure>
-                  <head>1573.</head>
-                  <p>¶ December. Daye. 8 Houre. 7 Minute. 25.</p>
-               </figure>
-               <figure>
-                  <head>1576.</head>
-                  <p>¶ October. Day. 7 Houre. 9 Minute. 12</p>
-               </figure>
-               <figure>
-                  <head>1577.</head>
-                  <p>¶ Aprill. Day. 2 Houre. 6 Minute. 29</p>
-               </figure>
-               <figure>
-                  <head>1577.</head>
-                  <p>¶ September. Daye. 26 Houre. 10 Minute. 37.</p>
-               </figure>
-               <figure>
-                  <head>1578.</head>
-                  <p>¶ September. Daye. 16 Houre. 12 Minute. 24</p>
-               </figure>
-               <figure>
-                  <head>1580.</head>
-                  <p>¶ Ianuary. Daye. 31 Houre. 8 Minute. 36</p>
-               </figure>
-               <figure>
-                  <head>1581.</head>
-                  <p>¶ Ianuary. Daye. 19 Houre. 8 Minute. 38</p>
-               </figure>
-               <figure>
-                  <head>1581.</head>
-                  <p>¶ Iuly. Daye. 15 Houre. 15 Minute. 0</p>
-               </figure>
-               <figure>
-                  <head>1584</head>
-                  <p>¶ Nouember. Daye. 8 Houre. 11 Minute. 18</p>
-               </figure>
-               <figure>
-                  <head>1587.</head>
-                  <p>¶ September. Daye. 6 Houre. 8 Minute. 54</p>
-               </figure>
-               <figure>
-                  <head>1588</head>
-                  <p>¶ Marche. Daye. 2 Houre. 13 Minute. 22</p>
-               </figure>
-               <figure>
-                  <head>1588.</head>
-                  <p>¶ August. Day. 25 Houre. 14 Minute. 47</p>
-               </figure>
-               <figure>
-                  <head>1589</head>
-                  <p>¶ August. Day. 15 Houre. 6 Minute. 8</p>
-               </figure>
-               <figure>
-                  <head>1590</head>
-                  <p>¶ December. Day. 30 Houre. 7 Minute. 15</p>
-               </figure>
-               <figure>
-                  <head>1591.</head>
-                  <p>¶ December. Day. 19 Houre. 14 Minute. 48</p>
-               </figure>
-               <figure>
-                  <head>1592</head>
-                  <p>¶ Iune. Day. 14 Houre. 8 Minute. 7</p>
-               </figure>
-               <figure>
-                  <head>1592</head>
-                  <p>¶ December. Day. 8 Houre. 6 Minute. 31.</p>
-               </figure>
-               <figure>
-                  <head>1594</head>
-                  <p>¶ October. Day. 18 Houre. 17 Minute. 8</p>
-               </figure>
-               <figure>
-                  <head>1595</head>
-                  <p>¶ Aprill. Day. 13 Houre. 14 Minute. 15</p>
-               </figure>
-               <figure>
-                  <head>1596</head>
-                  <p>¶ Aprill. Day. 2 Houre. 7 Minutes. 57</p>
-               </figure>
-               <figure>
-                  <head>1598</head>
-                  <p>¶ February. Day. 10 Houre. 16 Minute. 31</p>
-               </figure>
-               <figure>
-                  <head>1598</head>
-                  <p>August. Day. 6 Houre. 5 Minute. 28.</p>
-               </figure>
-               <figure>
-                  <head>1599</head>
-                  <p>¶ Ianuary. Day. 30 Houre. 16 Minute. 30</p>
-               </figure>
-               <figure>
-                  <head>1601</head>
-                  <p>¶ Nouembre. Day. 29 Houre. 5 Minutes. 9</p>
-               </figure>
-               <figure>
-                  <head>1602</head>
-                  <p>¶ May. Day. 25 Houre. 4 Minute. 56</p>
-               </figure>
-               <figure>
-                  <head>1603,</head>
-                  <p>¶ May. Day. 14 Houre. 10 Minute. 39</p>
-               </figure>
-               <figure>
-                  <head>1603</head>
-                  <p>¶ Nouember. Day. 8 Houre. 7 Minute. 7</p>
-               </figure>
-               <figure>
-                  <head>1605.</head>
-                  <p>¶ Marche. Day. 24 Houre. 7 Minute. 15</p>
-               </figure>
-               <figure>
-                  <head>1605.</head>
-                  <p>¶ September Day. 16 Houre. 14 Minute. 49</p>
-               </figure>
+               <p>
+                  <figure>
+                     <head>1560.</head>
+                     <p>¶ March. Daye. 11 Houre. 16 Minute. 6</p>
+                  </figure>
+                  <figure>
+                     <head>1562.</head>
+                     <p>¶ Iuly. Daye. 15 Houre. 14 Minute. 4</p>
+                  </figure>
+                  <figure>
+                     <head>1563.</head>
+                     <p>¶ Iuly. Daye. 5 Houre. 7 Minute. 34</p>
+                  </figure>
+                  <pb n="99" facs="tcp:7033:60"/>
+                  <figure>
+                     <head>1565.</head>
+                     <p>¶ Nouember. Daye. 7 Houre. 11 Minute. 36</p>
+                  </figure>
+                  <figure>
+                     <head>1566</head>
+                     <p>¶ October. Day. 28 Houre. 2 Minute. 44</p>
+                  </figure>
+                  <figure>
+                     <head>1567</head>
+                     <p>¶ October. Daye. 17 Houre. 13 Minute. 53</p>
+                  </figure>
+                  <figure>
+                     <head>1569</head>
+                     <p>¶ Marche. Day. 2 Houre. 14 Minute. 57</p>
+                  </figure>
+                  <figure>
+                     <head>1570</head>
+                     <p>¶ February Day. 20 Houre. 5 Minute. 20</p>
+                  </figure>
+                  <figure>
+                     <head>1570</head>
+                     <p>¶ August. Daye. 15 Houre. 9 Minute. 5</p>
+                  </figure>
+                  <figure>
+                     <head>1572</head>
+                     <p>¶ Iune. Day. 25 Houre. 9 Minute. 10</p>
+                  </figure>
+                  <figure>
+                     <head>1573.</head>
+                     <p>¶ December. Daye. 8 Houre. 7 Minute. 25.</p>
+                  </figure>
+                  <figure>
+                     <head>1576.</head>
+                     <p>¶ October. Day. 7 Houre. 9 Minute. 12</p>
+                  </figure>
+                  <pb n="100" facs="tcp:7033:61"/>
+                  <figure>
+                     <head>1577.</head>
+                     <p>¶ Aprill. Day. 2 Houre. 6 Minute. 29</p>
+                  </figure>
+                  <figure>
+                     <head>1577.</head>
+                     <p>¶ September. Daye. 26 Houre. 10 Minute. 37.</p>
+                  </figure>
+                  <figure>
+                     <head>1578.</head>
+                     <p>¶ September. Daye. 16 Houre. 12 Minute. 24</p>
+                  </figure>
+                  <figure>
+                     <head>1580.</head>
+                     <p>¶ Ianuary. Daye. 31 Houre. 8 Minute. 36</p>
+                  </figure>
+                  <figure>
+                     <head>1581.</head>
+                     <p>¶ Ianuary. Daye. 19 Houre. 8 Minute. 38</p>
+                  </figure>
+                  <figure>
+                     <head>1581.</head>
+                     <p>¶ Iuly. Daye. 15 Houre. 15 Minute. 0</p>
+                  </figure>
+                  <figure>
+                     <head>1584</head>
+                     <p>¶ Nouember. Daye. 8 Houre. 11 Minute. 18</p>
+                  </figure>
+                  <figure>
+                     <head>1587.</head>
+                     <p>¶ September. Daye. 6 Houre. 8 Minute. 54</p>
+                  </figure>
+                  <figure>
+                     <head>1588</head>
+                     <p>¶ Marche. Daye. 2 Houre. 13 Minute. 22</p>
+                  </figure>
+                  <pb n="101" facs="tcp:7033:61"/>
+                  <figure>
+                     <head>1588.</head>
+                     <p>¶ August. Day. 25 Houre. 14 Minute. 47</p>
+                  </figure>
+                  <figure>
+                     <head>1589</head>
+                     <p>¶ August. Day. 15 Houre. 6 Minute. 8</p>
+                  </figure>
+                  <figure>
+                     <head>1590</head>
+                     <p>¶ December. Day. 30 Houre. 7 Minute. 15</p>
+                  </figure>
+                  <figure>
+                     <head>1591.</head>
+                     <p>¶ December. Day. 19 Houre. 14 Minute. 48</p>
+                  </figure>
+                  <figure>
+                     <head>1592</head>
+                     <p>¶ Iune. Day. 14 Houre. 8 Minute. 7</p>
+                  </figure>
+                  <figure>
+                     <head>1592</head>
+                     <p>¶ December. Day. 8 Houre. 6 Minute. 31.</p>
+                  </figure>
+                  <figure>
+                     <head>1594</head>
+                     <p>¶ October. Day. 18 Houre. 17 Minute. 8</p>
+                  </figure>
+                  <figure>
+                     <head>1595</head>
+                     <p>¶ Aprill. Day. 13 Houre. 14 Minute. 15</p>
+                  </figure>
+                  <figure>
+                     <head>1596</head>
+                     <p>¶ Aprill. Day. 2 Houre. 7 Minutes. 57</p>
+                  </figure>
+                  <pb n="102" facs="tcp:7033:62"/>
+                  <figure>
+                     <head>1598</head>
+                     <p>¶ February. Day. 10 Houre. 16 Minute. 31</p>
+                  </figure>
+                  <figure>
+                     <head>1598</head>
+                     <p>August. Day. 6 Houre. 5 Minute. 28.</p>
+                  </figure>
+                  <figure>
+                     <head>1599</head>
+                     <p>¶ Ianuary. Day. 30 Houre. 16 Minute. 30</p>
+                  </figure>
+                  <figure>
+                     <head>1601</head>
+                     <p>¶ Nouembre. Day. 29 Houre. 5 Minutes. 9</p>
+                  </figure>
+                  <figure>
+                     <head>1602</head>
+                     <p>¶ May. Day. 25 Houre. 4 Minute. 56</p>
+                  </figure>
+                  <figure>
+                     <head>1603,</head>
+                     <p>¶ May. Day. 14 Houre. 10 Minute. 39</p>
+                  </figure>
+                  <figure>
+                     <head>1603</head>
+                     <p>¶ Nouember. Day. 8 Houre. 7 Minute. 7</p>
+                  </figure>
+                  <figure>
+                     <head>1605.</head>
+                     <p>¶ Marche. Day. 24 Houre. 7 Minute. 15</p>
+                  </figure>
+                  <figure>
+                     <head>1605.</head>
+                     <p>¶ September Day. 16 Houre. 14 Minute. 49</p>
+                  </figure>
+               </p>
                <p>
                   <pb n="103" facs="tcp:7033:62"/>Whan as thou wilt finde the longitude of any Regi<g ref="char:EOLhyphen"/>on,<note place="margin">Howe to finde the Longitude of Regions by an Eclypse.</note> Country, or Uillage, by an Eclipse, do in this manner. Obserue diligently the perfaite time, whan as she begin<g ref="char:EOLhyphen"/>neth to be eclipsed (either by some perfait Dial, or clock, or els by the heighte of some fixed sterre) and if the time of hyr beginninge, do agree with that whiche thou shalt find here calculated, know certainly that thy Meridian and longitud, is all one with Norwich: but if they differ, do in this order. Subtract the lesser time, from oute of the greater, &amp; the differe<g ref="char:cmbAbbrStroke">̄</g>ce turn into degrees, &amp; mi. of the Equinoctial. The<g ref="char:cmbAbbrStroke">̄</g> if the time in the beginning of her ob<g ref="char:EOLhyphen"/>scuration be more, then that which I haue heare placed: adde this difference in degrees, and minuts, vnto the lo<g ref="char:cmbAbbrStroke">̄</g>
                   <g ref="char:EOLhyphen"/>gitude of Norwiche, (because the place is East from it, and you shall haue the perfait lo<g ref="char:cmbAbbrStroke">̄</g>gitude. But and she be<g ref="char:EOLhyphen"/>gin soner with the, to be Eclipsed then is here me<g ref="char:cmbAbbrStroke">̄</g>tioned, subtract the difference aforesaid in digrees &amp; minuts, from the Longitude of Norwiche (because thou arte West from it) &amp; you shal haue the Longitude desired.</p>
@@ -10616,7 +10630,10 @@ fote of thy co<g ref="char:cmbAbbrStroke">̄</g>passe in the Ce<g ref="char:cmbA
             <sp>
                <speaker>Philo.</speaker>
                <p>Then takinge the Clothe or Parchemente, in whiche you will describe the Paralleles, and Meri<g ref="char:EOLhyphen"/>diane Circles: you shall reduce all the Circles with theyr diuisions, whiche you made in A. B. C. into this seconde Mappe, the Center of whiche is. K. by the healpe of your compasse, firste drawinge a righte line. K. L. the middes of whiche shall be M. and this line muste be in lengthe equall to the Line. D. F. in the first Mappe. Then placinge th'one ende of the compasse in. K. ex<g ref="char:EOLhyphen"/>tende th'other vnto. M. and protracte a Circle, whi<g ref="char:EOLhyphen"/>che shall represente th'Equinoctiall, and shall be equall vnto the Circle. A. B. C. after take with your Com<g ref="char:EOLhyphen"/>passe the distaunce of euerye Arcke described in the firste Mappe, and wyth th'one fote of your compasse, (placinge th'other foote in. K.) drawe Cyrcles in suche circuit, as one of these shalbe foure times the quantity of one of th'other in the firste Mappe.</p>
-               <figure/>
+               <p>Moreouer you shall diuide th'Equinoctiall line in<g ref="char:EOLhyphen"/>to. 360. equall portions, suche as are in the Line. A. B. C. In like sorte th'other Paralleles, bothe Septemtri<g ref="char:EOLhyphen"/>onall, and Southe from th'Equinoctiall, and drawinge from euerye diuision of one Parallele vnto an other short lynes as you did from. D. to. H. in the firste Mappe,
+<pb n="131" facs="tcp:7033:78"/>
+                  <figure/>
+your Carde will not onlye growe to the forme of a harte, but also of a double herte one within an other, as thys demonstratio<g ref="char:cmbAbbrStroke">̄</g>, &amp; figure sheweth. Last you shal drawe the Tropickes of Cancer and Capricorny, the Circles Arc<g ref="char:EOLhyphen"/>ticke and Antarctike, makinge them double lines for the easier knowinge them from th'other paralleles.</p>
                <p>
                   <pb n="133" facs="tcp:7033:78"/>Then place in thys Mappe the Face of th'Earthe, ac<g ref="char:EOLhyphen"/>cordinge to his partes in Longitude and Latitude, as it is set fourth in my fifth booke, vsinge in euery Countrye, to place onlye the Meridiane Line, for the middes of the same, where as your Mappe is of no greate quanti<g ref="char:EOLhyphen"/>tye. Then place the degrees of Longitude, &amp; Latitude vnto the Paralleles, and Meridiane Circles, with Cli<g ref="char:EOLhyphen"/>mates, Windes, diuersity of inhabitaunce, and other ne<g ref="char:EOLhyphen"/>cessarye thynges.</p>
             </sp>
